@@ -1,0 +1,16 @@
+.flex-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.disable{
+    opacity:0.6;    
+    pointer-events: none;
+}
